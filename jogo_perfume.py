@@ -40,4 +40,3 @@ while True:
     else:
         print(f'A palavra está assim {secreto_temporario}')
         print(' ')
-
